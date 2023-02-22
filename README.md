@@ -7,9 +7,10 @@ Python Libraries Used: Numpy, Pandas, Seaborn, Matplotlib.
 •	**Exploratory Data Analysis of Stock Prices**
 
 Gathered stock information for various banks such as Bank of America, CitiGroup, Goldman Sachs, JPMorgan Chase, Morgan Stanley, Wells Fargo using Pandas DataReader and created dataframe using the same. Performed exploratory data analysis involving finding the max Close price for each bank’s stock throughout the time period, finding out what dates each bank stock had the best and worst single day returns, identifying the riskiest stock over the entire time period and so on. Visualized data using pairplot, distplot, Pandas built-in visualization, heatmap, clustermap, candlestick plot.
+
 Python Libraries Used: Numpy, Pandas, Seaborn, Matplotlib.
 
-•	**Movie Correlation **
+• **Movie Correlation**
 
 Analysed and visualized the correlation between different movie features like budget, company, rating etc. and gross revenue.
 
