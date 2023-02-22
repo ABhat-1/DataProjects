@@ -26,7 +26,7 @@ Technologies Used: SQL, SQL Server
 Cleaned the Nashville Housing dataset using SQL. This included tasks like standardizing date format, altering table to add and drop new columns, splitting strings in a column to different columns, updating the table, deleting duplicate rows, dropping unused columns
 
 Technologies Used: SQL, SQL Server
-**
-•	Bike Buyers’ Data Cleaning and Exploration Using Excel**
+
+•	**Bike Buyers’ Data Cleaning and Exploration Using Excel**
 
 Cleaned and formatted data, created pivot tables, charts and an interactive dashboard to analyse the bike buyers’ data.
